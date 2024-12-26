@@ -1,3 +1,0 @@
-1
-word
-some 4
